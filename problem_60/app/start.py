@@ -1,5 +1,6 @@
 #Project Euler - Problem 60
-#Solution by Lean
+#Solution by Lean - Jan 5, 2024
+
 from sympy import isprime
 primes = {'3':[[3]]}
 n = 5
