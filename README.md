@@ -3,7 +3,7 @@
 ## Soluciones para los problemas de Project Euler 
 
 ### Descripción
-Este repositorio contiene una carpeta por cada problema resuelto por mi, en mi cuenta de Project Euler.  
+Este repositorio contiene una carpeta por cada problema que he resuelto en mi cuenta de Project Euler.  
 Además, con algunas soluciones están los archivos necesarios para crear una imagen docker y levantarla en un contenedor.
 No todos los problemas tienen la explicación, debido a que los comence a resolver tiempo antes de empezar a subirlos a github, por lo tanto algunas soluciones solo tendrán el archivo en python.
 
