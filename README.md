@@ -1,6 +1,6 @@
 [English](#english)    
 
-## Soluciones de los problemas de Project Euler 
+## Soluciones para los problemas de Project Euler 
 
 ### Descripción
 Este repositorio contiene una carpeta por cada problema resuelto por mi, en mi cuenta de Project Euler.  
